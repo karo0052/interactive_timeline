@@ -1,0 +1,432 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1, .cls-16 {
+        fill: #9ba778;
+      }
+
+      .cls-11, .cls-2 {
+        fill: #f2eeeb;
+      }
+
+      .cls-3 {
+        fill: #576444;
+      }
+
+      .cls-4 {
+        fill: #10748b;
+      }
+
+      .cls-5 {
+        fill: #9c4754;
+      }
+
+      .cls-6 {
+        fill: #eccc72;
+      }
+
+      .cls-7 {
+        fill: #c98d60;
+      }
+
+      .cls-8 {
+        fill: #a69197;
+      }
+
+      .cls-10, .cls-9 {
+        fill: none;
+      }
+
+      .cls-11, .cls-9 {
+        stroke: #0c0d0a;
+      }
+
+      .cls-10, .cls-11, .cls-9 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-10 {
+        stroke: #10748b;
+        fill: transparent;
+      }
+
+       .cls-10:hover {
+        fill: #10748b;
+      }
+
+      .cls-12 {
+        font-size: 24px;
+      }
+
+      .cls-12, .cls-15 {
+        font-family: Rockwell-Regular, Rockwell;
+      }
+
+      .cls-13 {
+        font-size: 16px;
+      }
+
+      .cls-13, .cls-16 {
+        font-family: Avenir-Light, Avenir;
+        font-weight: 300;
+      }
+
+      .cls-14 {
+        letter-spacing: -0.09em;
+      }
+
+      .cls-15 {
+        font-size: 23px;
+      }
+
+      .cls-16 {
+        font-size: 31px;
+      }
+      #single {
+      display: none;
+      }
+    </style>
+  </defs>
+  <title>v1</title>
+  <g id="min_graf">
+    <polygon class="cls-1" points="1800 273.23 1680 452.35 1560 527.06 1440 620.16 1320 645.2 1200 668.13 1080 670.28 960 694.65 840 709.23 840 709.23 720 726.35 600 796.51 480 857.16 360.21 884.09 240 900.92 120 902.3 0 911.27 0 1040.24 1799.03 1040.24 1920 1040.24 1920 225.45 1800 273.23"/>
+  </g>
+  <g id="single">
+    <g id="ford15">
+      <rect class="cls-2" x="1680" y="836.35" width="120" height="204"/>
+      <rect class="cls-3" x="1680" y="586.35" width="120" height="250"/>
+      <rect class="cls-4" x="1680" y="506.35" width="120" height="80"/>
+      <polygon class="cls-5" points="1800 506.35 1680 506.35 1680 452.35 1800 437.35 1800 506.35"/>
+      <polygon class="cls-6" points="1800 437.35 1680 452.35 1680 452.35 1800 370.35 1800 437.35"/>
+      <polygon class="cls-7" points="1800 323.35 1680 452.35 1680 452.35 1800 273.23 1800 323.35"/>
+      <polygon class="cls-8" points="1800 370.35 1680 452.35 1680 452.35 1800 323.59 1800 370.35"/>
+    </g>
+    <g id="ford14">
+      <rect class="cls-2" x="1560" y="865.35" width="120" height="175"/>
+      <rect class="cls-3" x="1560" y="694.35" width="120" height="171"/>
+      <rect class="cls-4" x="1560" y="626.35" width="120" height="68"/>
+      <rect class="cls-5" x="1560" y="579.35" width="120" height="47"/>
+      <polygon class="cls-7" points="1680 491.35 1560 527.06 1560 527.06 1680 452.35 1680 491.35"/>
+      <rect class="cls-6" x="1560" y="529.35" width="120" height="50"/>
+      <polygon class="cls-8" points="1680 529.35 1560 529.35 1560 527.06 1680 491.35 1680 529.35"/>
+    </g>
+    <g id="ford13">
+      <rect class="cls-2" x="1440" y="877.35" width="120" height="163"/>
+      <rect class="cls-3" x="1440" y="741.85" width="120" height="135"/>
+      <rect class="cls-4" x="1440" y="682.06" width="120" height="60"/>
+      <rect class="cls-5" x="1440" y="638.06" width="120" height="44"/>
+      <polygon class="cls-6" points="1560 638.06 1440 638.06 1440 620.16 1560 592.06 1560 638.06"/>
+      <polygon class="cls-8" points="1560 592.06 1440 620.16 1440 620.16 1560 558.06 1560 592.06"/>
+      <polygon class="cls-7" points="1560 558.06 1440 620.16 1440 620.16 1560 527.06 1560 558.06"/>
+    </g>
+    <g id="ford12">
+      <rect class="cls-2" x="1320" y="895.35" width="120" height="145"/>
+      <rect class="cls-3" x="1320" y="797.35" width="120" height="98"/>
+      <rect class="cls-4" x="1320" y="745.35" width="120" height="52"/>
+      <rect class="cls-5" x="1320" y="709.35" width="120" height="36"/>
+      <rect class="cls-6" x="1320" y="671.08" width="120" height="38"/>
+      <polygon class="cls-8" points="1440 671.16 1320 671.16 1320 645.2 1440 642.16 1440 671.16"/>
+      <polygon class="cls-7" points="1440 642.16 1320 645.2 1320 645.2 1440 620.16 1440 642.16"/>
+    </g>
+    <g id="ford11">
+      <rect class="cls-2" x="1200" y="894.35" width="120" height="146"/>
+      <rect class="cls-3" x="1200" y="809.35" width="120" height="85"/>
+      <rect class="cls-4" x="1200" y="756.35" width="120" height="53"/>
+      <rect class="cls-5" x="1200" y="727.35" width="120" height="29"/>
+      <rect class="cls-6" x="1200" y="691.35" width="120" height="36"/>
+      <polygon class="cls-8" points="1320 691.24 1200 691.24 1200 668.13 1320 665.24 1320 691.24"/>
+      <polygon class="cls-7" points="1320 665.24 1200 668.13 1200 668.13 1320 645.2 1320 665.24"/>
+    </g>
+    <g id="ford10">
+      <rect class="cls-2" x="1080" y="912.35" width="120" height="128"/>
+      <rect class="cls-3" x="1080" y="825.35" width="120" height="87"/>
+      <rect class="cls-4" x="1080" y="773.35" width="120" height="52"/>
+      <rect class="cls-5" x="1080" y="748.35" width="120" height="25"/>
+      <rect class="cls-6" x="1080" y="713.35" width="120" height="35"/>
+      <polygon class="cls-7" points="1200 688.35 1080 688.35 1080 670.28 1200 668.13 1200 688.35"/>
+      <rect class="cls-8" x="1080" y="688.35" width="120" height="25"/>
+    </g>
+    <g id="ford9">
+      <rect class="cls-2" x="960" y="909.35" width="120" height="131"/>
+      <rect class="cls-3" x="960" y="828.35" width="120" height="81"/>
+      <rect class="cls-4" x="960" y="773.35" width="120" height="55"/>
+      <rect class="cls-5" x="960" y="748.35" width="120" height="25"/>
+      <rect class="cls-6" x="960" y="713.35" width="120" height="35"/>
+      <polygon class="cls-8" points="1080 713.35 960 713.35 960 694.65 1080 688.35 1080 713.35"/>
+      <polygon class="cls-7" points="1080 688.35 960 694.65 960 694.65 1080 670.28 1080 688.35"/>
+    </g>
+    <g id="ford8">
+      <rect class="cls-2" x="840" y="921.35" width="120" height="119"/>
+      <rect class="cls-3" x="840" y="840.35" width="120" height="81"/>
+      <rect class="cls-4" x="840" y="789.35" width="120" height="51"/>
+      <rect class="cls-6" x="840" y="735.35" width="120" height="31"/>
+      <rect class="cls-5" x="840" y="766.35" width="120" height="23"/>
+      <rect class="cls-8" x="840" y="710.85" width="120" height="25"/>
+      <polygon class="cls-7" points="960 710.85 840 710.85 840 709.23 960 694.65 960 710.85"/>
+    </g>
+    <g id="ford7">
+      <rect class="cls-2" x="720" y="920.35" width="120" height="120"/>
+      <rect class="cls-3" x="720" y="848.35" width="120" height="72"/>
+      <rect class="cls-4" x="720" y="799.35" width="120" height="49"/>
+      <rect class="cls-6" x="720" y="748.35" width="120" height="28"/>
+      <polygon class="cls-8" points="840 748.35 720 748.35 720 726.35 840 723.35 840 748.35"/>
+      <polygon class="cls-7" points="840 723.35 720 726.35 720 726.35 840 709.23 840 723.35"/>
+      <rect class="cls-5" x="720" y="776.35" width="120" height="23"/>
+    </g>
+    <g id="ford6">
+      <rect class="cls-2" x="600" y="922.35" width="120" height="118"/>
+      <rect class="cls-3" x="600" y="858.35" width="120" height="64"/>
+      <rect class="cls-4" x="600" y="810.35" width="120" height="48"/>
+      <polygon class="cls-5" points="720 810.35 600 810.35 600 796.51 720 785.35 720 810.35"/>
+      <polygon class="cls-6" points="720 785.35 600 796.51 600 796.51 720 762.35 720 785.35"/>
+      <polygon class="cls-8" points="600 796.51 720 762.35 720 738.35 600 796.51 600 796.51"/>
+      <polygon class="cls-7" points="720 738.35 600 796.51 600 796.51 720 726.35 720 738.35"/>
+    </g>
+    <g id="ford5">
+      <rect class="cls-2" x="480" y="939.35" width="120" height="101"/>
+      <rect class="cls-3" x="480" y="890.35" width="120" height="49"/>
+      <rect class="cls-4" x="480" y="859.35" width="120" height="31"/>
+      <polygon class="cls-5" points="600 859.35 480 859.35 480 857.16 600 838.35 600 859.35"/>
+      <polygon class="cls-6" points="600 838.56 480 857.16 480 857.16 600 821.56 600 838.56"/>
+      <polygon class="cls-8" points="600 821.56 480 857.16 480 857.16 600 806.56 600 821.56"/>
+      <polygon class="cls-7" points="600 806.56 480 857.16 480 857.16 600 796.51 600 806.56"/>
+    </g>
+    <g id="ford4">
+      <rect class="cls-2" x="360" y="954.35" width="120" height="86"/>
+      <rect class="cls-3" x="360" y="920.35" width="120" height="34"/>
+      <rect class="cls-4" x="360" y="900.35" width="120" height="20"/>
+      <polygon class="cls-5" points="480 900.35 360 900.35 360 884.15 480 883.35 480 900.35"/>
+      <polygon class="cls-6" points="480 883.35 360 884.15 360 884.15 480 870.35 480 883.35"/>
+      <polygon class="cls-8" points="480 870.35 360 884.15 360 884.15 480 863.35 480 870.35"/>
+      <polygon class="cls-7" points="480 863.35 360 884.15 360 884.15 480 857.16 480 863.35"/>
+    </g>
+    <g id="ford3">
+      <rect class="cls-2" x="240" y="965.35" width="120" height="75"/>
+      <rect class="cls-3" x="240" y="938.35" width="120" height="27"/>
+      <rect class="cls-4" x="240" y="922.35" width="120" height="16"/>
+      <rect class="cls-5" x="240" y="909.35" width="120" height="13"/>
+      <polygon class="cls-6" points="360 909.35 240 909.35 240 900.96 360 897.35 360 909.35"/>
+      <polygon class="cls-8" points="360 897.35 240 900.96 240 900.92 360 890.35 360 897.35"/>
+      <polygon class="cls-7" points="360 890.35 240 900.92 240 900.92 360 884.15 360 890.35"/>
+    </g>
+    <g id="ford2">
+      <rect class="cls-2" x="120" y="970.35" width="120" height="70"/>
+      <rect class="cls-3" x="120" y="947.35" width="120" height="23"/>
+      <rect class="cls-4" x="120" y="932.35" width="120" height="15"/>
+      <rect class="cls-5" x="120" y="922.35" width="120" height="10"/>
+      <rect class="cls-6" x="120" y="913.35" width="120" height="9"/>
+      <rect class="cls-8" x="120" y="907.35" width="120" height="6"/>
+      <polygon class="cls-7" points="240 907.35 120 907.35 120 902.3 240 900.92 240 907.35"/>
+    </g>
+    <g id="ford1">
+      <rect class="cls-2" y="967.35" width="120" height="73"/>
+      <rect class="cls-3" y="946.35" width="120" height="21"/>
+      <rect class="cls-4" y="930.35" width="120" height="16"/>
+      <rect class="cls-5" y="922.35" width="120" height="8"/>
+      <rect class="cls-6" y="914.35" width="120" height="8"/>
+      <polygon class="cls-8" points="120 914.35 0 914.35 0 911.31 120 907.35 120 914.35"/>
+      <polygon class="cls-7" points="120 907.35 0 911.31 0 911.27 120 902.3 120 907.35"/>
+    </g>
+  </g>
+  <g id="dots">
+    <g id="dot1">
+      <ellipse id="cirkel" class="cls-9" cx="120.4" cy="903.35" rx="18.66" ry="19.91"/>
+      <ellipse id="markering" class="cls-10" cx="120.5" cy="903.35" rx="12.12" ry="12.94"/>
+    </g>
+    <g id="dot7">
+      <ellipse id="cirkel-2" data-name="cirkel" class="cls-9" cx="840" cy="711.26" rx="18.66" ry="19.91"/>
+      <ellipse id="markering-2" data-name="markering" class="cls-10" cx="840.1" cy="711.26" rx="12.12" ry="12.94"/>
+    </g>
+    <g id="dot8">
+      <ellipse id="cirkel-3" data-name="cirkel" class="cls-9" cx="960" cy="694.26" rx="18.66" ry="19.91"/>
+      <ellipse id="markering-3" data-name="markering" class="cls-10" cx="960.1" cy="694.26" rx="12.12" ry="12.94"/>
+    </g>
+    <g id="dot9">
+      <ellipse id="cirkel-4" data-name="cirkel" class="cls-9" cx="1080" cy="670.28" rx="18.66" ry="19.91"/>
+      <ellipse id="markering-4" data-name="markering" class="cls-10" cx="1080.1" cy="670.28" rx="12.12" ry="12.94"/>
+    </g>
+    <g id="dot10">
+      <ellipse id="cirkel-5" data-name="cirkel" class="cls-9" cx="1200" cy="668.13" rx="18.66" ry="19.91"/>
+      <ellipse id="markering-5" data-name="markering" class="cls-10" cx="1200.1" cy="667.8" rx="12.12" ry="12.94"/>
+    </g>
+    <g id="dot12">
+      <ellipse id="cirkel-6" data-name="cirkel" class="cls-9" cx="1440" cy="621.88" rx="18.66" ry="19.91"/>
+      <ellipse id="markering-6" data-name="markering" class="cls-10" cx="1440.1" cy="621.88" rx="12.12" ry="12.94"/>
+    </g>
+    <g id="dot13">
+      <ellipse id="cirkel-7" data-name="cirkel" class="cls-9" cx="1560" cy="527.06" rx="18.66" ry="19.91"/>
+      <ellipse id="markering-7" data-name="markering" class="cls-10" cx="1560.1" cy="526.86" rx="12.12" ry="12.94"/>
+    </g>
+    <g id="dot14">
+      <ellipse id="cirkel-8" data-name="cirkel" class="cls-9" cx="1680" cy="452.72" rx="18.66" ry="19.91"/>
+      <ellipse id="markering-8" data-name="markering" class="cls-10" cx="1680.1" cy="452.72" rx="12.12" ry="12.94"/>
+    </g>
+    <g id="dot15">
+      <ellipse id="cirkel-9" data-name="cirkel" class="cls-9" cx="1800" cy="272.69" rx="18.66" ry="19.91"/>
+      <ellipse id="markering-9" data-name="markering" class="cls-10" cx="1800.1" cy="272.69" rx="12.12" ry="12.94"/>
+    </g>
+    <g id="dot11">
+      <ellipse id="cirkel-10" data-name="cirkel" class="cls-9" cx="1320" cy="646.11" rx="18.66" ry="19.91"/>
+      <ellipse id="markering-10" data-name="markering" class="cls-10" cx="1320.1" cy="646.11" rx="12.12" ry="12.94"/>
+    </g>
+    <g id="dot6">
+      <ellipse id="cirkel-11" data-name="cirkel" class="cls-9" cx="720" cy="726.35" rx="18.66" ry="19.91"/>
+      <ellipse id="markering-11" data-name="markering" class="cls-10" cx="720.1" cy="726.35" rx="12.12" ry="12.94"/>
+    </g>
+    <g id="dot5">
+      <ellipse id="cirkel-12" data-name="cirkel" class="cls-9" cx="600" cy="796.07" rx="18.66" ry="19.91"/>
+      <ellipse id="markering-12" data-name="markering" class="cls-10" cx="600.1" cy="796.07" rx="12.12" ry="12.94"/>
+    </g>
+    <g id="dot4">
+      <ellipse id="cirkel-13" data-name="cirkel" class="cls-9" cx="480" cy="857.08" rx="18.66" ry="19.91"/>
+      <ellipse id="markering-13" data-name="markering" class="cls-10" cx="480.1" cy="857.08" rx="12.12" ry="12.94"/>
+    </g>
+    <g id="dot2">
+      <ellipse id="cirkel-14" data-name="cirkel" class="cls-9" cx="240" cy="900.92" rx="18.66" ry="19.91"/>
+      <ellipse id="markering-14" data-name="markering" class="cls-10" cx="240.1" cy="900.96" rx="12.12" ry="12.94"/>
+    </g>
+    <g id="dot3">
+      <ellipse id="cirkel-15" data-name="cirkel" class="cls-9" cx="360" cy="883.43" rx="18.66" ry="19.91"/>
+      <ellipse id="markering-15" data-name="markering" class="cls-10" cx="360.1" cy="883.43" rx="12.12" ry="12.94"/>
+    </g>
+  </g>
+  <g id="info">
+    <g id="salg1">
+      <line class="cls-9" x1="120" y1="883.43" x2="120" y2="821.99"/>
+      <circle class="cls-11" cx="120" cy="781.33" r="40.65"/>
+      <text class="cls-12" transform="translate(95.58 780.03)">2,02<tspan class="cls-13"><tspan x="0.02" y="19.2">mia. k</tspan><tspan class="cls-14" x="41.81" y="19.2">r</tspan><tspan x="45.66" y="19.2">.</tspan></tspan></text>
+    </g>
+    <g id="salg2">
+      <line class="cls-9" x1="240" y1="881.04" x2="240" y2="819.6"/>
+      <circle class="cls-11" cx="240" cy="778.94" r="40.65"/>
+      <text class="cls-12" transform="translate(215.58 777.65)">2,04<tspan class="cls-13"><tspan x="0.02" y="19.2">mia. k</tspan><tspan class="cls-14" x="41.81" y="19.2">r</tspan><tspan x="45.66" y="19.2">.</tspan></tspan></text>
+    </g>
+    <g id="salg3">
+      <line class="cls-9" x1="360.1" y1="863.52" x2="360.1" y2="802.07"/>
+      <circle class="cls-11" cx="360.1" cy="761.42" r="40.65"/>
+      <text class="cls-12" transform="translate(335.68 760.12)">2,29<tspan class="cls-13"><tspan x="0.02" y="19.2">mia. k</tspan><tspan class="cls-14" x="41.81" y="19.2">r</tspan><tspan x="45.66" y="19.2">.</tspan></tspan></text>
+    </g>
+    <g id="salg4">
+      <line class="cls-9" x1="480.1" y1="837.16" x2="480.1" y2="775.72"/>
+      <circle class="cls-11" cx="480.1" cy="735.06" r="40.65"/>
+      <text class="cls-12" transform="translate(455.68 733.76)">2,70<tspan class="cls-13"><tspan x="0.02" y="19.2">mia. k</tspan><tspan class="cls-14" x="41.81" y="19.2">r</tspan><tspan x="45.66" y="19.2">.</tspan></tspan></text>
+    </g>
+    <g id="salg5">
+      <line class="cls-9" x1="600" y1="776.15" x2="600" y2="714.7"/>
+      <circle class="cls-11" cx="600" cy="674.05" r="40.65"/>
+      <text class="cls-12" transform="translate(575.58 672.75)">3,60<tspan class="cls-13"><tspan x="0.02" y="19.2">mia. k</tspan><tspan class="cls-14" x="41.81" y="19.2">r</tspan><tspan x="45.66" y="19.2">.</tspan></tspan></text>
+    </g>
+    <g id="salg6">
+      <line class="cls-9" x1="720" y1="706.43" x2="720" y2="644.99"/>
+      <circle class="cls-11" cx="720" cy="604.33" r="40.65"/>
+      <text class="cls-12" transform="translate(695.58 603.03)">4,63<tspan class="cls-13"><tspan x="0.02" y="19.2">mia. k</tspan><tspan class="cls-14" x="41.81" y="19.2">r</tspan><tspan x="45.66" y="19.2">.</tspan></tspan></text>
+    </g>
+    <g id="salg7">
+      <line class="cls-9" x1="840" y1="691.35" x2="840" y2="629.9"/>
+      <circle class="cls-11" cx="840" cy="589.25" r="40.65"/>
+      <text class="cls-12" transform="translate(815.58 587.95)">4,89<tspan class="cls-13"><tspan x="0.02" y="19.2">mia. k</tspan><tspan class="cls-14" x="41.81" y="19.2">r</tspan><tspan x="45.66" y="19.2">.</tspan></tspan></text>
+    </g>
+    <g id="salg8">
+      <line class="cls-9" x1="960" y1="674.35" x2="960" y2="612.9"/>
+      <circle class="cls-11" cx="960" cy="572.25" r="40.65"/>
+      <text class="cls-12" transform="translate(935.58 570.95)">5,10<tspan class="cls-13"><tspan x="0.02" y="19.2">mia. k</tspan><tspan class="cls-14" x="41.81" y="19.2">r</tspan><tspan x="45.66" y="19.2">.</tspan></tspan></text>
+    </g>
+    <g id="salg9">
+      <line class="cls-9" x1="1080" y1="650.37" x2="1080" y2="588.92"/>
+      <circle class="cls-11" cx="1080" cy="548.27" r="40.65"/>
+      <text class="cls-12" transform="translate(1055.58 546.97)">5,46<tspan class="cls-13"><tspan x="0.02" y="19.2">mia. k</tspan><tspan class="cls-14" x="41.81" y="19.2">r</tspan><tspan x="45.66" y="19.2">.</tspan></tspan></text>
+    </g>
+    <g id="salg10">
+      <line class="cls-9" x1="1200" y1="647.89" x2="1200" y2="586.44"/>
+      <circle class="cls-11" cx="1200" cy="545.78" r="40.65"/>
+      <text class="cls-12" transform="translate(1175.58 544.49)">5,49<tspan class="cls-13"><tspan x="0.02" y="19.2">mia. k</tspan><tspan class="cls-14" x="41.81" y="19.2">r</tspan><tspan x="45.66" y="19.2">.</tspan></tspan></text>
+    </g>
+    <g id="salg11">
+      <line class="cls-9" x1="1320" y1="626.19" x2="1320" y2="564.74"/>
+      <circle class="cls-11" cx="1320" cy="524.09" r="40.65"/>
+      <text class="cls-12" transform="translate(1295.58 522.79)">5,83<tspan class="cls-13"><tspan x="0.02" y="19.2">mia. k</tspan><tspan class="cls-14" x="41.81" y="19.2">r</tspan><tspan x="45.66" y="19.2">.</tspan></tspan></text>
+    </g>
+    <g id="salg12">
+      <line class="cls-9" x1="1440.1" y1="601.97" x2="1440.1" y2="540.52"/>
+      <circle class="cls-11" cx="1440.1" cy="499.87" r="40.65"/>
+      <text class="cls-12" transform="translate(1415.68 498.57)">6,19<tspan class="cls-13"><tspan x="0.02" y="19.2">mia. k</tspan><tspan class="cls-14" x="41.81" y="19.2">r</tspan><tspan x="45.66" y="19.2">.</tspan></tspan></text>
+    </g>
+    <g id="salg13">
+      <line class="cls-9" x1="1560.1" y1="506.95" x2="1560.1" y2="445.5"/>
+      <circle class="cls-11" cx="1560.1" cy="404.84" r="40.65"/>
+      <text class="cls-12" transform="translate(1535.68 403.55)">7,57<tspan class="cls-13"><tspan x="0.02" y="19.2">mia. k</tspan><tspan class="cls-14" x="41.81" y="19.2">r</tspan><tspan x="45.66" y="19.2">.</tspan></tspan></text>
+    </g>
+    <g id="salg14">
+      <line class="cls-9" x1="1680.1" y1="432.81" x2="1680.1" y2="371.36"/>
+      <circle class="cls-11" cx="1680.1" cy="330.71" r="40.65"/>
+      <text class="cls-12" transform="translate(1655.68 329.41)">8,67<tspan class="cls-13"><tspan x="0.02" y="19.2">mia. k</tspan><tspan class="cls-14" x="41.81" y="19.2">r</tspan><tspan x="45.66" y="19.2">.</tspan></tspan></text>
+    </g>
+    <g id="salg15">
+      <line class="cls-9" x1="1800" y1="252.77" x2="1800" y2="191.33"/>
+      <circle class="cls-11" cx="1800" cy="150.67" r="40.65"/>
+      <text class="cls-15" transform="translate(1769.87 148.64)">11,33<tspan class="cls-13"><tspan x="5.73" y="19.2">mia. k</tspan><tspan class="cls-14" x="47.52" y="19.2">r</tspan><tspan x="51.38" y="19.2">.</tspan></tspan></text>
+    </g>
+  </g>
+  <g id="aarstal">
+    <g id="a2003">
+      <rect class="cls-2" y="1040.24" width="120" height="40.19"/>
+      <text class="cls-16" transform="translate(27.76 1071.68)">2003</text>
+    </g>
+    <g id="a2004">
+      <rect class="cls-2" x="120" y="1040.24" width="120" height="40.19"/>
+      <text class="cls-16" transform="translate(147.76 1071.68)">2004</text>
+    </g>
+    <g id="a2005">
+      <rect class="cls-2" x="240" y="1040.24" width="120" height="40.19"/>
+      <text class="cls-16" transform="translate(267.76 1071.68)">2005</text>
+    </g>
+    <g id="a2006">
+      <rect class="cls-2" x="360" y="1040.24" width="120" height="40.19"/>
+      <text class="cls-16" transform="translate(387.76 1071.68)">2006</text>
+    </g>
+    <g id="a2007">
+      <rect class="cls-2" x="480" y="1040.24" width="120" height="40.19"/>
+      <text class="cls-16" transform="translate(507.76 1071.68)">2007</text>
+    </g>
+    <g id="a2008">
+      <rect class="cls-2" x="600" y="1040.24" width="120" height="40.19"/>
+      <text class="cls-16" transform="translate(627.76 1071.68)">2008</text>
+    </g>
+    <g id="a2009">
+      <rect class="cls-2" x="720" y="1040.24" width="120" height="40.19"/>
+      <text class="cls-16" transform="translate(747.76 1071.68)">2009</text>
+    </g>
+    <g id="a2010">
+      <rect class="cls-2" x="840" y="1040.24" width="120" height="40.19"/>
+      <text class="cls-16" transform="translate(867.76 1071.68)">2010</text>
+    </g>
+    <g id="a2011">
+      <rect class="cls-2" x="960" y="1040.24" width="120" height="40.19"/>
+      <text class="cls-16" transform="translate(987.76 1071.68)">2011</text>
+    </g>
+    <g id="a2012">
+      <rect class="cls-2" x="1080" y="1040.24" width="120" height="40.19"/>
+      <text class="cls-16" transform="translate(1107.76 1071.68)">2012</text>
+    </g>
+    <g id="a2013">
+      <rect class="cls-2" x="1200" y="1040.24" width="120" height="40.19"/>
+      <text class="cls-16" transform="translate(1227.76 1071.68)">2013</text>
+    </g>
+    <g id="a2014">
+      <rect class="cls-2" x="1320" y="1040.24" width="120" height="40.19"/>
+      <text class="cls-16" transform="translate(1347.76 1071.68)">2014</text>
+    </g>
+    <g id="a2015">
+      <rect class="cls-2" x="1440" y="1040.24" width="120" height="40.19"/>
+      <text class="cls-16" transform="translate(1467.76 1071.68)">2015</text>
+    </g>
+    <g id="a2016">
+      <rect class="cls-2" x="1560" y="1040.24" width="120" height="40.19"/>
+      <text class="cls-16" transform="translate(1587.76 1071.68)">2016</text>
+    </g>
+    <g id="a2017">
+      <rect class="cls-2" x="1680" y="1040.24" width="120" height="40.19"/>
+      <text class="cls-16" transform="translate(1707.76 1071.68)">2017</text>
+    </g>
+  </g>
+</svg>
