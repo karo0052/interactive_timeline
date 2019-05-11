@@ -60,11 +60,9 @@ body {
 #svg1 {
   width: 100vw;
   height: auto;
-  display: initial;
   position: absolute;
   top: 0;
   left: 0;
-  overflow: scroll;
   z-index: 5;
 }
 #svg3 {
