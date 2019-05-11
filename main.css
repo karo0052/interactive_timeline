@@ -57,19 +57,20 @@ body {
   top: 0;
 }
 
-#svg_timeline #svg1 {
+#svg1 {
   width: 100vw;
   height: auto;
   display: initial;
-  position: fixed;
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: scroll;
+  z-index: 5;
 }
 #svg3 {
   width: 100vw;
   height: auto;
   background-color: green;
-  margin: 0 0 -0.5vw 0;
-  position: static;
-  /* display: none; */
   opacity: 0;
   transition: 1s;
   pointer-events: none;
@@ -79,7 +80,6 @@ body {
   width: 272vw;
   height: auto;
   margin: 0 0 -0.5vw 0;
-  /* display: none; */
   opacity: 0;
   transition: 1s;
   pointer-events: none;

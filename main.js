@@ -59,10 +59,11 @@ function init() {
 
 function visInfo(singleId, infoId, aarId, procentId) {
   console.log("vis info");
-  // document.querySelector(`${singleId}`).style.opacity = "1";
   document.querySelector(`${infoId}`).style.opacity = "1";
 
   setTimeout(function() {
+    document.querySelector(`${aarId} .cls-19`).style.fill = "#F2EEEB";
+    document.querySelector(`${aarId} .cls-19`).style.opacity = "0.2";
     document.querySelector(`${singleId}`).style.opacity = "1";
     document.querySelector(`${aarId} .cls-19`).style.fill = "#F2EEEB";
     document.querySelector(`${aarId} .cls-19`).style.opacity = "0.2";
@@ -70,9 +71,6 @@ function visInfo(singleId, infoId, aarId, procentId) {
   setTimeout(function() {
     document.querySelector(`${procentId}`).style.opacity = "1";
   }, 400);
-
-  // document.querySelector(`${aarId} .cls-19`).style.fill = "#F2EEEB";
-  // document.querySelector(`${aarId} .cls-19`).style.opacity = "0.2";
 }
 
 function skjulInfo(singleId, infoId, aarId, procentId) {
